@@ -1,0 +1,138 @@
+[
+  {
+    "id": "m-a0-1",
+    "level": "A0",
+    "wrong": "I student.",
+    "correct": "I am a student.",
+    "type": "إغفال فعل الكينونة وأداة النكرة",
+    "explanationAr": "في الإنجليزية لا توجد جملة اسمية بدون فعل صريح؛ يجب استخدام am متبوعة بأداة النكرة a."
+  },
+  {
+    "id": "m-a0-2",
+    "level": "A0",
+    "wrong": "I have 25 years old.",
+    "correct": "I am 25 years old.",
+    "type": "التعبير عن العمر بفعل الملكية Have",
+    "explanationAr": "في الإنجليزية نستخدم فعل الكينونة (am/is/are) للتعبير عن العمر وليس Have."
+  },
+  {
+    "id": "m-a0-3",
+    "level": "A0",
+    "wrong": "He is engineer.",
+    "correct": "He is an engineer.",
+    "type": "إغفال أدوات النكرة a / an مع المهن",
+    "explanationAr": "كل اسم مهنة مفرد معدود يجب أن يسبق بـ a أو an: He is an engineer."
+  },
+  {
+    "id": "m-a1-1",
+    "level": "A1",
+    "wrong": "She like coffee.",
+    "correct": "She likes coffee.",
+    "type": "إغفال s المفرد الغائب مع He/She/It",
+    "explanationAr": "في المضارع البسيط، يأخذ الفعل مع الفاعل المفرد (He/She/It) حرف s: She likes coffee."
+  },
+  {
+    "id": "m-a1-2",
+    "level": "A1",
+    "wrong": "Open the light, please.",
+    "correct": "Turn on the light, please.",
+    "type": "استخدام open بدلاً من turn on للأجهزة والأنوار",
+    "explanationAr": "الأنوار والأجهزة الكهربائية تستخدم turn on / turn off، أما open فللأبواب والشبابيك."
+  },
+  {
+    "id": "m-a2-1",
+    "level": "A2",
+    "wrong": "He didn't went to work yesterday.",
+    "correct": "He didn't go to work yesterday.",
+    "type": "تكرار صيغة الماضي بعد didn't",
+    "explanationAr": "الأداة didn't تشير إلى الماضي بالفعل، لذا يعود الفعل بعدها لمصدره المجرد (Base Form) مثل go وليس went."
+  },
+  {
+    "id": "m-a2-2",
+    "level": "A2",
+    "wrong": "I will see you in Friday.",
+    "correct": "I will see you on Friday.",
+    "type": "استخدام in مع أيام الأسبوع بدلاً من on",
+    "explanationAr": "أيام الأسبوع تأخذ حصراً حرف الجر on (on Friday, on Monday)، بينما in مخصصة للشهور والسنوات."
+  },
+  {
+    "id": "m-a2-3",
+    "level": "A2",
+    "wrong": "This mobile is more cheap than that one.",
+    "correct": "This mobile is cheaper than that one.",
+    "type": "مقارنة الصفات القصيرة بـ more بدلاً من -er",
+    "explanationAr": "الصفات ذات المقطع الواحد مثل cheap نزيد لها er (cheaper than) ولا نضع قبلها more."
+  },
+  {
+    "id": "m-a2-4",
+    "level": "A2",
+    "wrong": "He is married with Sarah.",
+    "correct": "He is married to Sarah.",
+    "type": "حرف الجر الخاطئ مع married",
+    "explanationAr": "في الإنجليزية نقول married to شخص ما، ولا نستخدم حرف الجر with."
+  },
+  {
+    "id": "m-a2-5",
+    "level": "A2",
+    "wrong": "I don't know nothing about the plan.",
+    "correct": "I don't know anything about the plan.",
+    "type": "ازدواج النفي (Double Negative)",
+    "explanationAr": "في الإنجليزية لا يجوز الجمع بين أداتي نفي في جملة واحدة؛ مع don't نستخدم anything وليس nothing."
+  },
+  {
+    "id": "m-a2-6",
+    "level": "A2",
+    "wrong": "I went to home at 5 PM.",
+    "correct": "I went home at 5 PM.",
+    "type": "إضافة حرف الجر to قبل كلمة home",
+    "explanationAr": "كلمة home ظرف مكان عند الحركة فلا يسبقها to: نقول went home أو arrived home مباشرة."
+  },
+  {
+    "id": "m-a2-7",
+    "level": "A2",
+    "wrong": "Please wait me at the station.",
+    "correct": "Please wait for me at the station.",
+    "type": "إغفال حرف الجر for مع الفعل wait",
+    "explanationAr": "الفعل wait يحتاج دائماً لحرف الجر for عند انتظار شخص: wait for me وليس wait me."
+  },
+  {
+    "id": "m-b1-1",
+    "level": "B1",
+    "wrong": "I am agree with your opinion.",
+    "correct": "I agree with your opinion.",
+    "type": "إضافة فعل الكينونة am قبل الفعل agree",
+    "explanationAr": "الفعل agree فعل مستقل ولا يسبق بـ am. نقول I agree وليس I am agree."
+  },
+  {
+    "id": "m-b1-2",
+    "level": "B1",
+    "wrong": "I will call you when I will arrive.",
+    "correct": "I will call you when I arrive.",
+    "type": "المستقبل المضاعف في جمل الوقت والشرط",
+    "explanationAr": "بعد أدوات الربط الزمنية والشرطية (when, if, as soon as) نستخدم المضارع البسيط للحديث عن المستقبل."
+  },
+  {
+    "id": "m-b1-3",
+    "level": "B1",
+    "wrong": "The car which I bought it was fast.",
+    "correct": "The car which I bought was fast.",
+    "type": "الضمير العائد الزائد (Resumptive Pronoun)",
+    "explanationAr": "في جمل الوصل الإنجليزية (Relative Clauses)، لا نكرر الضمير it العائد على الاسم الموصول car."
+  },
+  {
+    "id": "m-b1-4",
+    "level": "B1",
+    "wrong": "I live in Dubai since three years.",
+    "correct": "I have lived in Dubai for three years.",
+    "type": "الخلط بين Since و For وزمن المضارع التام",
+    "explanationAr": "للتعبير عن حدث مستمر حتى الآن نستخدم المضارع التام مع For للمدد الزمنية (for 3 years) و Since لبداية التاريخ."
+  },
+  {
+    "id": "m-b2-1",
+    "level": "B2",
+    "wrong": "Despite of the heavy rain, we attended.",
+    "correct": "Despite the heavy rain, we attended.",
+    "type": "إضافة of بعد Despite",
+    "explanationAr": "نقول Despite مباشرة متبوعة بالاسم، أما in spite فهي التي تأخذ of (in spite of)."
+  }
+]
